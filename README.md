@@ -56,7 +56,7 @@ Designed specifically for screen-sharing safety.
     * Download and install [Minecraft Forge 1.19.2](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html) (Client).
 
 2.  **Download the Client:**
-    * Download the `pixeldevvic-1.0.jar` from the [Releases](https://github.com/PixelDev-Vic/PixelDevVic-Client/releases) tab.
+    * Download the `pixeldevvic-1.0.jar` from the [Releases]([https://github.com/PixelDev-Vic/PixelDevVic-Client/releases](https://github.com/PixelDev-Vic/PixelDevVic-Client-1.19.2-/releases/tag/forge)) tab.
 
 3.  **Install the Mod:**
     * Press `Win + R` on your keyboard.

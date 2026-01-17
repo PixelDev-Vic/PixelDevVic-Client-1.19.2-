@@ -10,7 +10,7 @@
 ## ⚡ Features
 
 ### 💎 Stealth Ore ESP
-A highly optimized scanner that draws clean tracers and boxes around valuable blocks.
+A highly optimized scanner that draws clean tracers and boxes around valuable ores.
 * **Stealth Rendering:** Uses "SeeThrough" text rendering (Action Bar style logic) so names are visible through walls but blend in like vanilla nametags.
 * **Smart Filtering:** Cycle through target lists to reduce screen clutter.
     * *Modes:* All, Diamond, Iron, Gold, Ancient Debris, Emerald.
@@ -52,18 +52,20 @@ Designed specifically for screen-sharing safety.
 
 ## 🛠️ Installation Guide
 
-1.  **Prerequisites:**
-    * Install [Minecraft Forge 1.19.2](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html).
+1.  **Install Forge:**
+    * Download and install [Minecraft Forge 1.19.2](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html) (Client).
 
-2.  **Building the Mod:**
-    * Clone this repository or download the source.
-    * Open a terminal in the project folder.
-    * Run: `gradlew build` (Windows) or `./gradlew build` (Linux/Mac).
-    * The compiled mod file will appear in `build/libs/`.
+2.  **Download the Client:**
+    * Download the `pixeldevvic-1.0.jar` from the [Releases](https://github.com/PixelDev-Vic/PixelDevVic-Client/releases) tab.
 
-3.  **Installing:**
-    * Move the `pixeldevvic-1.0.jar` into your `.minecraft/mods` folder.
-    * Launch Minecraft using the Forge profile.
+3.  **Install the Mod:**
+    * Press `Win + R` on your keyboard.
+    * Type `%appdata%` and press Enter.
+    * Navigate to `.minecraft` > `mods`.
+    * Drag and drop the downloaded `.jar` file into this folder.
+
+4.  **Launch:**
+    * Open the Minecraft Launcher, select the **Forge 1.19.2** profile, and click Play.
 
 ---
 
